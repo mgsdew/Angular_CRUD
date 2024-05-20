@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\Angular - CRUD\\AngularApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDDA18B-A7AB-4E5F-BEE4-5058CF73C869}|AngularApi.csproj|d:\\project\\angular - crud\\angularapi\\services\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDDA18B-A7AB-4E5F-BEE4-5058CF73C869}|AngularApi.csproj|solutionrelative:services\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDDA18B-A7AB-4E5F-BEE4-5058CF73C869}|AngularApi.csproj|d:\\project\\angular - crud\\angularapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDDA18B-A7AB-4E5F-BEE4-5058CF73C869}|AngularApi.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDDA18B-A7AB-4E5F-BEE4-5058CF73C869}|AngularApi.csproj|d:\\project\\angular - crud\\angularapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDDA18B-A7AB-4E5F-BEE4-5058CF73C869}|AngularApi.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDDA18B-A7AB-4E5F-BEE4-5058CF73C869}|AngularApi.csproj|d:\\project\\angular - crud\\angularapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDDA18B-A7AB-4E5F-BEE4-5058CF73C869}|AngularApi.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDDA18B-A7AB-4E5F-BEE4-5058CF73C869}|AngularApi.csproj|d:\\project\\angular - crud\\angularapi\\models\\jwtoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDDA18B-A7AB-4E5F-BEE4-5058CF73C869}|AngularApi.csproj|solutionrelative:models\\jwtoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDDA18B-A7AB-4E5F-BEE4-5058CF73C869}|AngularApi.csproj|d:\\project\\angular - crud\\angularapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDDA18B-A7AB-4E5F-BEE4-5058CF73C869}|AngularApi.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDDA18B-A7AB-4E5F-BEE4-5058CF73C869}|AngularApi.csproj|d:\\project\\angular - crud\\angularapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EDDA18B-A7AB-4E5F-BEE4-5058CF73C869}|AngularApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\Angular - CRUD\\AngularApi\\Migrations\\20240519151934_Add Passowrd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240519151934_Add Passowrd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDDA18B-A7AB-4E5F-BEE4-5058CF73C869}|AngularApi.csproj|d:\\project\\angular - crud\\angularapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDDA18B-A7AB-4E5F-BEE4-5058CF73C869}|AngularApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project\\Angular - CRUD\\AngularApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Project\\Angular - CRUD\\AngularApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-18T19:57:46.47Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\Angular - CRUD\\AngularApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Project\\Angular - CRUD\\AngularApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:56:28.567Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Project\\Angular - CRUD\\AngularApi\\Services\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeRepository.cs",
+              "ToolTip": "D:\\Project\\Angular - CRUD\\AngularApi\\Services\\EmployeeRepository.cs",
+              "RelativeToolTip": "Services\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:07:08.209Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Project\\Angular - CRUD\\AngularApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Project\\Angular - CRUD\\AngularApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwFEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:10:53.433Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240519151934_Add Passowrd.cs",
+              "DocumentMoniker": "D:\\Project\\Angular - CRUD\\AngularApi\\Migrations\\20240519151934_Add Passowrd.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240519151934_Add Passowrd.cs",
+              "ToolTip": "D:\\Project\\Angular - CRUD\\AngularApi\\Migrations\\20240519151934_Add Passowrd.cs",
+              "RelativeToolTip": "Migrations\\20240519151934_Add Passowrd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:19:35.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Project\\Angular - CRUD\\AngularApi\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\Project\\Angular - CRUD\\AngularApi\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:18:19.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\Project\\Angular - CRUD\\AngularApi\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "D:\\Project\\Angular - CRUD\\AngularApi\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:16:18.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtOption.cs",
+              "DocumentMoniker": "D:\\Project\\Angular - CRUD\\AngularApi\\Models\\JwtOption.cs",
+              "RelativeDocumentMoniker": "Models\\JwtOption.cs",
+              "ToolTip": "D:\\Project\\Angular - CRUD\\AngularApi\\Models\\JwtOption.cs",
+              "RelativeToolTip": "Models\\JwtOption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:15:27.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Project\\Angular - CRUD\\AngularApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Project\\Angular - CRUD\\AngularApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABMAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:14:21.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
